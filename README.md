@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AREEZAZEEM
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Development
-- 📫 How to reach me MY Email- areezazeem123@gmail.com
+- 📫 MY Email- areezazeem123@gmail.com
 
 <!---
 AREEZAZEEM/AREEZAZEEM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
